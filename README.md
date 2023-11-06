@@ -14,6 +14,14 @@
    2. 아두이노 토양 수분 감지 센서 모듈 : 토양 내 수분함량에 따른 저항의 변화를 측정하는 센서로, 토양 내 수분함량에 따라 물의 공급 여부를 정하기 위해 필요.
    3. 아두이노(Uno) : 토양 수분 감지 센서의 아날로그 값과 워터 펌프를 통해 대파에 수분을 공급하는 명령을 위해 필요.
    4. 아두이노 워터 펌프(JT-180A) : 대파에 수분을 공급하기 위해 필요.
+
+# 참고 사진
+<파테크>
+![파테크](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/4be69c3f-a7d2-455b-998b-e24bcbd60150)
+
+<구현 설계도>
+![파테크_완성모습](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/888f6cde-0ad7-457e-a0c9-975aa46bc1be)
+
    
 # 👨🏻‍💻 INHATC 3학년 2학기 무선네트워크 1조
 <table>
@@ -36,3 +44,5 @@
     </tr>
   </tbody>
 </table>
+
+
