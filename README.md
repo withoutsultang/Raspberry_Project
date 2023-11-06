@@ -16,10 +16,10 @@
    4. 아두이노 워터 펌프(JT-180A) : 대파에 수분을 공급하기 위해 필요.
 
 # 참고 사진
-# <파테크>
+# 파테크
 ![파테크](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/4be69c3f-a7d2-455b-998b-e24bcbd60150)
 
-# <구현 설계도>
+# 구현 설계도
 
 ![파테크_완성모습](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/888f6cde-0ad7-457e-a0c9-975aa46bc1be)
 
