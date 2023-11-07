@@ -17,12 +17,13 @@
 
 # 참고 사진
 # 파테크
-![파테크_구현모습_수정본](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/65f29a88-d3ff-4b38-8a1b-3bb6a6e0f8e2)
+![파테크](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/eb217db7-61f5-48b9-b4b7-effccd96de1f)
+
 
 출처: 구글 이미지
 # 구현 설계도
 
-![파테크_완성모습](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/888f6cde-0ad7-457e-a0c9-975aa46bc1be)
+![파테크_구현모습_수정본](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/65f29a88-d3ff-4b38-8a1b-3bb6a6e0f8e2)
 
    
 # 👨🏻‍💻 INHATC 3학년 2학기 무선네트워크 1조
