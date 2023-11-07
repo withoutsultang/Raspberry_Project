@@ -17,7 +17,8 @@
 
 # 참고 사진
 # 파테크
-![파테크](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/4be69c3f-a7d2-455b-998b-e24bcbd60150)
+![파테크_구현모습_수정본](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/65f29a88-d3ff-4b38-8a1b-3bb6a6e0f8e2)
+
 출처: 구글 이미지
 # 구현 설계도
 
