@@ -15,7 +15,7 @@
    3. 아두이노(Uno) : 토양 수분 감지 센서의 아날로그 값과 워터 펌프를 통해 대파에 수분을 공급하는 명령을 위해 필요.
    4. 아두이노 워터 펌프(JT-180A) : 대파에 수분을 공급하기 위해 필요.
 
-# 참고 사진
+# 📷 참고 사진
 # 파테크
 ![파테크](https://github.com/withoutsultang/Raspberry_Project/assets/113170868/eb217db7-61f5-48b9-b4b7-effccd96de1f)
 
